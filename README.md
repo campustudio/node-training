@@ -26,7 +26,7 @@ for daily node training/test
 ##### reference:
 https://github.com/workshopper/learnyounode
 
-##### Resolving EACCES permissions errors when installing packages globally. / Installing a node version manager without removing your current version of npm or Node.js.
+##### resolving EACCES permissions errors when installing packages globally. / installing a node version manager without removing your current version of npm or Node.js.
 https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
@@ -48,20 +48,20 @@ When you are done, you must run:
 
 to proceed. Your program will be tested, a report will be generated, and
 the lesson will be marked 'completed' if you are successful.
-─────────────────────────────────────────────────────────────────────────────
-  » To print these instructions again, run: `learnyounode print`
-  » To execute your program in a test environment, run: `learnyounode run
+- To print these instructions again, run: `learnyounode print`
+- To execute your program in a test environment, run: `learnyounode run
     program.js`
-  » To verify your program, run: `learnyounode verify program.js`
-  » For help run: `learnyounode help`
-  
+- To verify your program, run: `learnyounode verify program.js`
+- For help run: `learnyounode help`
+
 # Markdown Preview Enhanced for VSCode
 https://shd101wyy.github.io/markdown-preview-enhanced/#/
 
-##### Markdown Preview Enhanced Shortcuts in VSCode
+##### Markdown Preview Enhanced shortcuts in VSCode
 Open preview: `cmd-k v`
 
-##### General Markdown Grammar
+##### general Markdown grammar
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://coding.net/help/doc/project/markdown.html#i-4
 
 
