@@ -1,4 +1,5 @@
 const getArgvFromIndex2 = () => {
+  // console.log('process: ', process);
   const argv = process.argv || []
   // console.log('argv: ', argv);
   let subArgv = []
