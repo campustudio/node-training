@@ -24,11 +24,11 @@ for daily node training/test
 /usr/local/bin/learnyounode -> /usr/local/lib/node_modules/learnyounode/bin/learnyounode
 
 ##### reference:
-[An intro to Node.js via a set of self-guided workshops](https://github.com/workshopper/learnyounode)
+[learnyounode](https://github.com/workshopper/learnyounode)
 
 ##### resolving EACCES permissions errors when installing packages globally. / installing a node version manager without removing your current version of npm or Node.js.
-[Resolving EACCES permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
-[Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Resolving EACCES permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
+- [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ##### HINTS after accessing an exercise in learnyounode
 
@@ -61,7 +61,8 @@ the lesson will be marked 'completed' if you are successful.
 Open preview: `cmd-k v`
 
 ##### general Markdown grammar
-[markdown-cheatsheet-online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html#i-4)
+- [markdown-cheatsheet-online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html#i-4)
+
 
 
