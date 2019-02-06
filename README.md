@@ -24,11 +24,11 @@ for daily node training/test
 /usr/local/bin/learnyounode -> /usr/local/lib/node_modules/learnyounode/bin/learnyounode
 
 ##### reference:
-https://github.com/workshopper/learnyounode
+[An intro to Node.js via a set of self-guided workshops](https://github.com/workshopper/learnyounode)
 
 ##### resolving EACCES permissions errors when installing packages globally. / installing a node version manager without removing your current version of npm or Node.js.
-https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
-https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+[Resolving EACCES permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
+[Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ##### HINTS after accessing an exercise in learnyounode
 
@@ -55,13 +55,13 @@ the lesson will be marked 'completed' if you are successful.
 - For help run: `learnyounode help`
 
 # Markdown Preview Enhanced for VSCode
-https://shd101wyy.github.io/markdown-preview-enhanced/#/
+[Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
 
 ##### Markdown Preview Enhanced shortcuts in VSCode
 Open preview: `cmd-k v`
 
 ##### general Markdown grammar
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-https://coding.net/help/doc/project/markdown.html#i-4
+[markdown-cheatsheet-online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html#i-4)
 
 
