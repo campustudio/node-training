@@ -8,7 +8,7 @@ for daily node training/test
 ##### taobao version temporary use example:
 `npm --registry https://registry.npm.taobao.org install express`
 
-##### taobao version persisted use:
+##### taobao version permanent use:
 `npm config set registry https://registry.npm.taobao.org`
 
 ##### reverse to official version:
