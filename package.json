@@ -1,0 +1,23 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "for daily node training/test",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carefreefish/node-training.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carefreefish/node-training/issues"
+  },
+  "homepage": "https://github.com/carefreefish/node-training#readme",
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-google": "^0.12.0"
+  }
+}
